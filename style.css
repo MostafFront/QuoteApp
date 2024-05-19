@@ -1,0 +1,18 @@
+div{
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+}
+button{
+    padding: 20px;
+    background-color: brown;
+    transform: .2s all ease;
+
+}
+button:hover{
+
+    background-color: green;
+
+}
